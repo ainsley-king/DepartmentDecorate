@@ -1,1 +1,56 @@
-//css  file for Site A
+#StudioArt {
+  
+    background-color: #D7A8F6;
+}
+#Economics {
+  
+    background-color: #A8F6EC;
+}
+#Politics {
+  
+    background-color: #CCF6A8
+}
+#ComputerScience {
+    background-color: #F6BBA8; 
+}
+
+#Mathematics {
+    background-color: #F6EFA8;
+}
+
+#landing {
+    background-color: #F6A8F6;
+}
+img.centre {
+    width: 250px;
+    }
+h1 {
+font-family: fantasy;
+    font-size: 40
+}
+
+body {
+    font-family: monospace
+}
+img.mcallister {
+    width: 100; 
+}
+#judith {
+    width: 100;
+}
+
+ul {
+    list-style-type: circle;
+}
+table:hover {
+    background-color: floralwhite;
+ 
+}
+
+th {
+    border-bottom: 2px  solid black;
+    font-size: 20;
+}
+p {
+    font-size: 16
+}
