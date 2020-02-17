@@ -4,3 +4,76 @@
 img.mcallister{
     width: 100;
 }
+#landing {
+    background-image: url(../../SiteA/pics/centre.jpg);
+}
+#landingh {
+    background-color: #FFEB5E;
+    text-shadow: 1px 1px 0px #CDCDCD;
+}
+.navigation {
+    list-style: square
+}
+#landingp {
+    background-color: #FFEB5E;
+}
+.navigation {
+    background-color: #FFEB5E;
+}
+#four:hover {
+    background-color: white;
+}
+#one:hover {
+    background-color: white;
+}
+#two:hover {
+    background-color: white;
+}
+#three:hover {
+    background-color: white;
+}
+#five:hover {
+    background-color: white;
+}
+.program {
+    text-shadow: 2px 2px 0px #FFEB5E;
+    font-family: Helvetica;
+    font-size: 45;
+}
+#StudioArt {
+    background-color: #E09487;
+}
+.table {
+    background-color: rgba(255,255,255,0.5);
+    border: 2px solid #000000;
+}
+.table:hover {
+    background-color: white;
+}
+th {
+    border-bottom: 3px  solid #FFEB5E;
+    font-size: 25;
+    font-family: Palatino;}
+td {
+    font-size: 18;
+    font-family: Palatino;
+}
+td:hover {
+    background-color: #FFEB5E
+}
+p {
+    font-size: 18;
+    font-family: Palatino;
+}
+#Economics {
+    background-color: #E0AD87
+}
+#Politics {
+    background-color: #E0BD87
+}
+#ComputerScience {
+    background-color: #E0CE87
+}
+#Mathematics {
+    background-color: #DCE087
+}
